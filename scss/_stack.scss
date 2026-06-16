@@ -1,0 +1,20 @@
+.tech-stack{
+    margin-top: 20px;
+    text-align: center;
+ h2{
+    font-size: $fontSizeM;
+    color:$primaryColor ;
+ }
+ p{
+    font-size: $fontSizeS;
+    color:$secondaryColor ;
+}
+.my-skills{
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 80px;
+    align-items: center;
+}
+}
